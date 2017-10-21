@@ -4,6 +4,7 @@
   "description": "## css: 1. less -> css 2. autoprefixes 4. concatenation 3. minification",
   "main": "gulpfile.js",
   "scripts": {
+    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
